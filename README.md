@@ -1,5 +1,14 @@
 # GraphicGPT
-A Chat bot for Graphic Era University.
+A Chat bot for Graphic Era University using Cohere and Langchain.
+Technologies used:
+- Cohere's API
+- Langchain
+- Flask
+- Chroma
+- HuggingFace's Embeddings
+- RecursiveCharacterTextSplitter
+- PromptTemplate
+- StrOutputParser
 
 ## How to run
 1. Clone the repository
