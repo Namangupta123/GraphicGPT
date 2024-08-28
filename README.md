@@ -1,6 +1,6 @@
 # GraphicGPT
 A Chat bot for Graphic Era University using Cohere and Langchain.
-Technologies used:
+### Technologies used:
 - Cohere's API
 - Langchain
 - Flask
