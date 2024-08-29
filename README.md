@@ -4,7 +4,7 @@ A Chat bot for Graphic Era University using Cohere and Langchain.
 - Cohere's API
 - Langchain
 - Flask
-- Chroma
+- Faiss-cpu
 - HuggingFace's Embeddings
 - RecursiveCharacterTextSplitter
 - PromptTemplate
