@@ -8,4 +8,4 @@ python-dotenv
 transformers
 sentence-transformers
 gunicorn
-chromadb
+faiss-cpu
